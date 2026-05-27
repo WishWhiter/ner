@@ -1,0 +1,3 @@
+[submodule "BERT-NER-Pytorch"]
+	path = BERT-NER-Pytorch
+	url = https://github.com/lonePatient/BERT-NER-Pytorch.git
