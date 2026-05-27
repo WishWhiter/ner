@@ -1,0 +1,12 @@
+# 忽略 model 文件夹下的所有文件
+model/
+
+# 或者只忽略常见的模型文件后缀
+*.pth
+*.bin
+*.h5
+*.ckpt
+*.pt
+*.pkl
+*.pickle
+*.safetensors
